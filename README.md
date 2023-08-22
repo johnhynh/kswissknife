@@ -1,4 +1,4 @@
-### Hi there 👋 🔭 I’m currently working on ... pursuing a career in cybersecurity. 
+### Hi there 👋 🔭 I’m currently working on ...
 
 <!--
 **kswissknife/kswissknife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
